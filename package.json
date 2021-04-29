@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-content",
-  "version": "0.1.2",
+  "version": "0.0.1",
   "description": "A Vue Cli 3 plugin to import content with marked",
   "keywords": [
     "markdown",
@@ -12,7 +12,7 @@
     "webpack",
     "marked"
   ],
-  "repository": "https://github.com/anteriovieira/vue-cli-plugin-content.git",
+  "repository": "https://github.com/only-doit/vue-cli-plugin-content.git",
   "author": "Antério Vieira <anteriovieira@gmail.com>",
   "main": "index.js",
   "license": "MIT",
