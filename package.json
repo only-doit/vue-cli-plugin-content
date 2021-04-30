@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-md-component",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "description": "A Vue Cli 3 plugin to import markdown as vue component",
   "keywords": [
     "markdown",
@@ -18,7 +18,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@do-it/markdown-loader": "^0.0.11",
+    "@do-it/markdown-loader": "^0.0.13",
     "@vue/component-compiler-utils": "^3.2.0",
     "html-loader": "^0.5.5",
     "markdown-loader": "^5.0.0"
