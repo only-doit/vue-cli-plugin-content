@@ -13,6 +13,8 @@ module.exports = (api, options) => {
       
     rule.use("markdown-loader")
       .loader(require.resolve('@do-it/markdown-loader'))
-      .options({ sourceDir: './terms' })
+      .options({
+        sourceDir: ''
+      })
   });
 };
