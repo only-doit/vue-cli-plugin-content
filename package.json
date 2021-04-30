@@ -18,7 +18,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@do-it/markdown-loader": "^0.0.8",
+    "@do-it/markdown-loader": "^0.0.9",
     "@vue/component-compiler-utils": "^3.2.0",
     "html-loader": "^0.5.5",
     "markdown-loader": "^5.0.0"
